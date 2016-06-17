@@ -1,0 +1,6 @@
+[package]
+name = "difference-of-squares"
+version = "0.0.0"
+
+[lib]
+name  ="difference_of_squares"
