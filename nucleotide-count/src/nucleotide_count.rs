@@ -1,4 +1,4 @@
-use std::collections::HashMap;
+    use std::collections::HashMap;
 
 static NUCLEOTIDES: [char; 4] = ['A', 'C', 'G', 'T'];
 
