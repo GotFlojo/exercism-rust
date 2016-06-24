@@ -1,0 +1,6 @@
+[package]
+name = "nucleotide-count"
+version = "0.0.0"
+
+[lib]
+name = "nucleotide_count"
